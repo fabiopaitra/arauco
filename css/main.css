@@ -1825,12 +1825,12 @@ p {
 /* 1.4 . Additional UI */
 /* 1.4.1  Page cover / .page-cover */
 .page-cover {
-  width: 100%;
+  width: 70%;
   position: fixed;
   height: 120%;
-  height: 100vh;
-  top: 0;
-  left: 0;
+  height: 80vh;
+  top: 60px;
+  right: 100px;
   z-index: -1;
   overflow: hidden; }
   .page-cover .cover-bg {
@@ -1843,8 +1843,6 @@ p {
     background: url(../img/bg-default.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
     z-index: -1; }
   .page-cover .cover-bg-mask {
     position: absolute;
@@ -2080,7 +2078,7 @@ p {
           height: 64px; } }
       @media (min-width: 1024px) {
         .page-header-alpha .navbar-brand .logo img {
-          height: 96px; } }
+          height: 80px; } }
     .page-header-alpha .navbar-brand .text {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -2434,7 +2432,7 @@ p {
       .page-header-alpha .navbar-sidebar {
         display: block;
         position: fixed;
-        top: 136px;
+        top: 120px;
         left: 40px;
         right: auto; } }
     .page-header-alpha .navbar-sidebar .nav-item {
@@ -2453,18 +2451,29 @@ p {
             -ms-flex-pack: center;
                 justify-content: center;
         color: white;
-        width: 96px;
-        height: 96px;
+        width: 80px;
+        height: 80px;
         border: 1px solid white;
         -webkit-transition: 0.3s;
+        padding: 15px;
+        letter-spacing: -1px;
+        line-height: 1.2em;
         transition: 0.3s;
-        text-align: right;
+        text-align: left;
         position: relative;
         background: rgba(0, 0, 0, 0.2); }
+      .logo-arauto {
+        margin: 0 20px;
+        width: 150px;
+      }
+      .logo-infinita {
+        padding: 450px 0 0 0;
+        width: 250px;
+      }
       .page-header-alpha .navbar-sidebar .nav-item .icon {
         font-family: "Montserrat", "Open Sans", sans-serif;
-        font-size: 2em;
-        font-weight: bold; }
+        font-size: 1.6em;
+        font-weight: 100; }
         .page-header-alpha .navbar-sidebar .nav-item .icon .fa {
           margin-top: 0.4em; }
       .page-header-alpha .navbar-sidebar .nav-item .txt {
@@ -3144,7 +3153,7 @@ p {
             padding-right: 88px; } }
         @media (min-width: 1200px) {
           .section .section-wrapper.fullwidth.with-margin {
-            padding-left: 232px;
+            padding-left: 142px;
             padding-right: 88px; } }
       .section .section-wrapper.fullwidth.with-margin-center {
         padding-left: 16px;
@@ -6050,6 +6059,16 @@ h1, h2, h3, h4 {
 
 .text-black {
   color: #1d1d1d !important; }
+
+.green {
+  color: #cdc330;
+}
+.red {
+  color: #ec7616;
+}
+.pale {
+  color: #f6e8c4;
+}
 
 /* 6.3 Optional Responsiveness */
 /* Add your responsiveness hook here  */
