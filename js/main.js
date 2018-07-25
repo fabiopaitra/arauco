@@ -33,7 +33,7 @@ $(document).on('ready', function () {
 		var src = list[i].getAttribute('data-image-src');
 		list[i].style.backgroundImage = "url('" + src + "')";
 		list[i].style.backgroundRepeat = "no-repeat";
-		list[i].style.backgroundPosition = "center";
+		list[i].style.backgroundPosition = "right bottom";
 		list[i].style.backgroundSize = "cover";
 	}
 	// Image block to Background image 
