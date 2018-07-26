@@ -324,6 +324,10 @@ p {
       -webkit-transition: 0.15s;
       transition: 0.15s; }
 
+      .image-1 {
+        width: 200px;
+      }
+
 .bg-photo {
   background: url(../img/items/contato.png);
   background-repeat: repeat;

@@ -1440,11 +1440,132 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/items\/gallery-0.png": {
+		"ft": 32768,
+		"iS": 25748,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-0.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/items\/gallery-1.png": {
 		"ft": 32768,
 		"iS": 66206,
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-10.png": {
+		"ft": 32768,
+		"iS": 95090,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-10.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-12.png": {
+		"ft": 32768,
+		"iS": 95362,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-12.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-2.png": {
+		"ft": 32768,
+		"iS": 68983,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-3.png": {
+		"ft": 32768,
+		"iS": 71068,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-4.png": {
+		"ft": 32768,
+		"iS": 83426,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-5.png": {
+		"ft": 32768,
+		"iS": 75924,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-6.png": {
+		"ft": 32768,
+		"iS": 72474,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-7.png": {
+		"ft": 32768,
+		"iS": 97005,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-7.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-8.png": {
+		"ft": 32768,
+		"iS": 108692,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-8.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-9.png": {
+		"ft": 32768,
+		"iS": 104244,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-9.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1724,6 +1845,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/logo_dark.png": {
+		"ft": 32768,
+		"iS": 4528,
+		"oA": 0,
+		"oAP": "\/img\/logo_dark.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/index-fullpage.html": {
 		"cB": 0,
