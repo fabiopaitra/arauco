@@ -1392,6 +1392,39 @@
 		"oAP": "\/img\/infinitas-sencacoes.mp4",
 		"oF": 0
 		},
+	"\/img\/items\/beneficios-1.png": {
+		"ft": 32768,
+		"iS": 282694,
+		"oA": 0,
+		"oAP": "\/img\/items\/beneficios-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/beneficios-2.png": {
+		"ft": 32768,
+		"iS": 517217,
+		"oA": 0,
+		"oAP": "\/img\/items\/beneficios-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/beneficios.png": {
+		"ft": 32768,
+		"iS": 727526,
+		"oA": 0,
+		"oAP": "\/img\/items\/beneficios.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/items\/bruma.png": {
 		"ft": 32768,
 		"iS": 0,
