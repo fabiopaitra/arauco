@@ -116,16 +116,20 @@ h3, h4 {
   font-weight: normal; }
 
 p {
-  font-size: 1rem; }
+  font-size: .9rem;
+  font-weight: 100; }
   @media (min-width: 768px) {
     p {
-      font-size: 1.1rem; } }
+      font-size: .9rem;
+      font-weight: 100; } }
   @media (min-width: 1024px) {
     p {
-      font-size: 1.1rem; } }
+      font-size: .9rem;
+      font-weight: 100; } }
   @media (min-width: 1200px) {
     p {
-      font-size: 1.2rem; } }
+      font-size: .9rem;
+      font-weight: 100; } }
 
 /* 1 Components */
 /* 1.1 Buttons, form container, input form control */
@@ -2862,7 +2866,7 @@ p {
 
 .body-page {
   background-color: #3c3d41;
-  color: #ffffff; }
+  color: #988676; }
 
 .body-item {
   background-color: #3c3d41;
@@ -3044,9 +3048,9 @@ p {
     .section.bg-bright .section-title h2 {
       color: #037FD5; }
   .section h4, .section h5 {
-    line-height: 1.6; }
+    line-height: 1.8; }
   .section p, .section ul {
-    line-height: 1.6; }
+    line-height: 1.8; }
     @media (min-width: 768px) {
       .section p, .section ul {
         line-height: 1.8; } }
@@ -3324,7 +3328,7 @@ p {
       position: absolute;
       top: 136px;
       bottom: 136px;
-      width: 70%;
+      width: 60%;
       left: 184px;
       height: auto;
       -webkit-transition-delay: 0.6s;
@@ -5939,15 +5943,15 @@ p {
 
 .display-4 {
   font-size: 2.5rem;
-  font-weight: 300;
+  font-weight: 100;
   line-height: 1.1;
-  font-weight: bold; }
+  font-weight: 100; }
   @media (min-width: 1024px) {
     .display-4 {
-      font-size: 3rem; } }
+      font-size: 2rem; } }
   @media (min-width: 1200px) {
     .display-4 {
-      font-size: 3.5rem; } }
+      font-size: 2rem; } }
 
 .display-5 {
   font-size: 1.5rem;
@@ -5959,25 +5963,24 @@ p {
 
 .display-title {
   margin-bottom: 2rem;
-  font-family: "Montserrat", "Open Sans", sans-serif; }
+  font-family: "Montserrat", "Open Sans", sans-serif;
+  font-weight: 100; }
 
 .display-normal {
   font-size: 1rem; }
 
-.display-decor {
-  position: relative; }
-  .display-decor::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 2em;
-    background: rgba(255, 255, 255, 0.15);
-    -webkit-transform: skewX(-30deg);
-            transform: skewX(-30deg);
-    -webkit-transform-origin: left bottom;
-            transform-origin: left bottom; }
+.brown {
+  color: #988676 !important;
+}  
 
+.facebook:before{background: url(../img/bg-default.jpg);}
+
+.display-decor {
+  position: relative;
+  margin: -50px 0 30px -100px;
+  color: #f5e7c3 !important;
+   }
+  
 .desc-decor {
   position: relative; }
   .desc-decor:before {
