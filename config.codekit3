@@ -1257,20 +1257,9 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/img\/bg-default1.jpg": {
-		"ft": 16384,
-		"iS": 63614,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/bg-default1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/img\/bg-default2.jpg": {
 		"ft": 16384,
-		"iS": 55361,
+		"iS": 1008980,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/bg-default2.jpg",
@@ -1279,9 +1268,20 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/bg-default23.jpg": {
+		"ft": 16384,
+		"iS": 55361,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/bg-default23.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/bg-default3.jpg": {
 		"ft": 16384,
-		"iS": 57613,
+		"iS": 1079378,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/bg-default3.jpg",
@@ -1290,12 +1290,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/bg-default34.jpg": {
+		"ft": 16384,
+		"iS": 57613,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/bg-default34.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/bg-default4.jpg": {
+		"ft": 16384,
+		"iS": 889026,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/bg-default4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bg-default45.jpg": {
 		"ft": 16384,
 		"iS": 66395,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/bg-default4.jpg",
+		"oAP": "\/img\/bg-default45.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1342,6 +1364,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/imagem-02.jpg": {
+		"ft": 16384,
+		"iS": 1008980,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/infinita-sencacoes.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1351,6 +1384,13 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/infinitas-sencacoes.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/img\/infinitas-sencacoes.mp4",
+		"oF": 0
 		},
 	"\/img\/items\/bruma.png": {
 		"ft": 32768,
@@ -1904,13 +1944,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/index.html",
-		"oF": 0
-		},
-	"\/infinitas full (1).mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/infinitas full (1).mp4",
 		"oF": 0
 		},
 	"\/item.html": {
