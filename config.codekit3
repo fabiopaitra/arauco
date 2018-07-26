@@ -1887,6 +1887,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/items\/simbol.png": {
+		"ft": 32768,
+		"iS": 5485,
+		"oA": 0,
+		"oAP": "\/img\/items\/simbol.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/items\/target_black.png": {
 		"ft": 32768,
 		"iS": 39236,
@@ -1896,6 +1907,17 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/video.jpg": {
+		"ft": 16384,
+		"iS": 824568,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/items\/video.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/logo.png": {

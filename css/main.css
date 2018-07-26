@@ -334,6 +334,19 @@ p {
         transition: opacity .25s ease-in;
       }
 
+.symbol {
+  background: url(../img/items/simbol.png);
+  background-repeat: no-repeat;
+  background-size: 173px 198px;
+  width: 173px;
+  height: 198px;
+  cursor: pointer;
+  display: block;
+  position: absolute;
+  margin: -90px -80px;
+  z-index: -1;
+}      
+
 .bg-photo {
   background: url(../img/items/contato.png);
   background-repeat: repeat;
