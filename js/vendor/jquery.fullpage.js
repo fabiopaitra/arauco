@@ -47,8 +47,8 @@
     var SECTION_LAST_SEL =      SECTION_SEL + ':last';
     var TABLE_CELL =            'fp-tableCell';
     var TABLE_CELL_SEL =        '.' + TABLE_CELL;
-    var AUTO_HEIGHT =           'fp-auto-height';
-    var AUTO_HEIGHT_SEL =       '.fp-auto-height';
+    // var AUTO_HEIGHT =           'fp-auto-height';
+    // var AUTO_HEIGHT_SEL =       '.fp-auto-height';
     var NORMAL_SCROLL =         'fp-normal-scroll';
     var NORMAL_SCROLL_SEL =     '.fp-normal-scroll';
 

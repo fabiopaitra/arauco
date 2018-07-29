@@ -350,7 +350,7 @@ p {
 .bg-photo {
   background: url(../img/items/contato.png);
   background-repeat: repeat;
-  z-index: -1;
+  z-index: -505;
   position: absolute;
   top: 0;
   left: 0;
@@ -1863,14 +1863,23 @@ p {
 /* 1.4 . Additional UI */
 /* 1.4.1  Page cover / .page-cover */
 .page-cover {
-  width: 100%;
-  position: fixed;
-  height: 120%;
-  height: 100vh;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  overflow: hidden; }
+    width: 65%;
+    position: fixed;
+    height: 87%;
+    height: 87vh;
+    top: 59px;
+    left: 420px;    
+    z-index: 0;
+    overflow: hidden; }
+    @media (max-width: 768px) {
+      .page-cover {
+        width: 91%;
+        position: fixed;
+        height: 50%;
+        height: 50vh;
+        top: 100px;
+        left: 18px; } }
+    
   .page-cover .cover-bg {
     position: absolute;
     top: 0;
@@ -1880,7 +1889,7 @@ p {
     /*  Page cover background image,color */
     background: url(../img/bg-default.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     z-index: -1; }
   .page-cover .cover-bg-mask {
     position: absolute;
@@ -2116,7 +2125,7 @@ p {
           height: 64px; } }
       @media (min-width: 1024px) {
         .page-header-alpha .navbar-brand .logo img {
-          height: 80px; } }
+          height: 78px; } }
     .page-header-alpha .navbar-brand .text {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -2508,6 +2517,15 @@ p {
         padding: 450px 0 0 0;
         width: 250px;
       }
+      @media (max-width:768px) {
+        .logo-infinita {
+          padding: 310px 0 0 10px;
+          margin: 0 0 -60px 0;
+        }
+      }
+      
+      
+      
       .page-header-alpha .navbar-sidebar .nav-item .icon {
         font-family: "Montserrat", "Open Sans", sans-serif;
         font-size: 1.6em;
