@@ -16,6 +16,26 @@
 		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
+	"\/css\/arauto-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/arauto-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/arauto.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/arauto-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
@@ -43,6 +63,26 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/imagelightbox-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/main-copia.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main-copia-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/main-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1363,11 +1403,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/items\/gallery-12.png": {
+	"\/img\/items\/gallery-11.png": {
 		"ft": 32768,
 		"iS": 95362,
 		"oA": 0,
-		"oAP": "\/img\/items\/gallery-12.png",
+		"oAP": "\/img\/items\/gallery-11.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1768,6 +1808,13 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/index-copia.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index-copia.html",
+		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,
