@@ -194,8 +194,33 @@ h4 {
 }
 .image-1 {
   transition: opacity .25s ease-out;
-
+  width: 135px;
 }
+
+@media (min-width: 576px) {
+  .image-1 {
+    width: 170px;
+  }
+  }
+
+@media (min-width: 768px) { 
+  .image-1 {
+    width: 200px;
+  }
+ }
+
+@media (min-width: 992px) { 
+  .image-1 {
+    width: 150px;
+  }
+ }
+
+@media (min-width: 1200px) { 
+  .image-1 {
+    width: 200px;
+  }
+ }
+
 .image-1:hover{
   opacity: .7;
   transition: opacity .25s ease-in;
