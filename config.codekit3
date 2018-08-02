@@ -1149,7 +1149,7 @@
 		},
 	"\/img\/bg-default.jpg": {
 		"ft": 16384,
-		"iS": 531522,
+		"iS": 1071905,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/bg-default.jpg",
@@ -1160,7 +1160,7 @@
 		},
 	"\/img\/bg-default2.jpg": {
 		"ft": 16384,
-		"iS": 390202,
+		"iS": 810075,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/bg-default2.jpg",
@@ -1171,7 +1171,7 @@
 		},
 	"\/img\/bg-default3.jpg": {
 		"ft": 16384,
-		"iS": 505594,
+		"iS": 1000703,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/bg-default3.jpg",
@@ -1182,7 +1182,7 @@
 		},
 	"\/img\/bg-default4.jpg": {
 		"ft": 16384,
-		"iS": 483969,
+		"iS": 992702,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/bg-default4.jpg",
@@ -1220,17 +1220,6 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/img\/imagem-02.jpg": {
-		"ft": 16384,
-		"iS": 483969,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/imagem-02.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/img\/infinita-sencacoes.svg": {
 		"ft": 2097152,
