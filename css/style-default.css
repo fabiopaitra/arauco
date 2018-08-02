@@ -54,9 +54,9 @@ a {
   .menu-arauto {
     font-weight: 100 !important;
     text-align: left;
-    line-height: .9em;
-    padding-left: 12px;
-    font-size: 1.7em !important;
+    line-height: 0.8em;
+    padding-left: 8px;
+    font-size: 1.1em !important;
   }  
 
     .section-cover-tier {
@@ -276,17 +276,17 @@ h4 {
   }
 }
 .page-header-alpha .navbar-sidebar .nav-item a { 
-  width: 90px;
-  height: 84px;
+    width: 60px;
+    height: 60px;    
 }
 @media (min-width: 1024px) {
   .page-header-alpha .navbar-brand .logo img {
-    height: 90px;
+    height: 60px;
   }
 }
 @media (min-width: 1024px) {
     .page-header-alpha .navbar-sidebar {
-        top: 129px;
+        top: 99px;
     }
 }
 
