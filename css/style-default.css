@@ -58,25 +58,6 @@ a {
     padding-left: 12px;
     font-size: 1.7em !important;
   }  
-  .page-cover {
-    width: 65%;
-    position: fixed;
-    height: 87%;
-    top: 59px;
-    left: 420px;    
-    z-index: 0;
-    overflow: hidden;
-   }
-    @media (max-width: 768px) {
-      .page-cover {
-        width: 91%;
-        position: fixed;
-        height: 50%;
-        top: 65px;
-        left: 17px;
-      }
-    }
-
 
     .section-cover-tier {
       position: relative;
@@ -312,6 +293,11 @@ h4 {
 .page-cover {
     width: 65vw;
     height: 85vh;
+    position: fixed;
+    top: 59px;
+    left: 420px;    
+    z-index: 0;
+    overflow: hidden;    
     }
 
 @media (max-width: 1400px) {
@@ -336,7 +322,16 @@ h4 {
 }
 @media (max-width: 900px) {
     .page-cover {
-        width: 45vw;
+        width: 40vw;
         height: 80vh;
+    }
+}
+@media (max-width: 768px) {
+    .page-cover {
+    width: 91%;
+    position: fixed;
+    height: 50%;
+    top: 65px;
+    left: 17px;
     }
 }
