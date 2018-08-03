@@ -2208,6 +2208,16 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/js\/style-default.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/style-default-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/js\/vegas\/overlays\/01.png": {
 		"ft": 32768,
 		"iS": 211,
