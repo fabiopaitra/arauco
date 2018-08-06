@@ -198,7 +198,7 @@ h4 {
 
 @media (min-width: 1200px) { 
   .image-1 {
-    width: 200px;
+    width: 150px;
   }
  }
 
@@ -235,7 +235,7 @@ h4 {
   width: 200px;
 }
 .logo-infinita {
-  margin: 450px 0 0 150px;
+  margin: 260px 0 0 150px;
   width: 250px;
 }
 @media (max-width:768px) {
@@ -334,4 +334,9 @@ h4 {
     top: 65px;
     left: 17px;
     }
+}
+
+
+.page-header-alpha .navbar-sidebar .nav-item .txt {
+    left: 60px;
 }
