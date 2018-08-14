@@ -1221,6 +1221,149 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/imagem-02.jpg": {
+		"ft": 16384,
+		"iS": 188018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-03.jpg": {
+		"ft": 16384,
+		"iS": 172978,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-04.jpg": {
+		"ft": 16384,
+		"iS": 175294,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-05.jpg": {
+		"ft": 16384,
+		"iS": 3705361,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-07.jpg": {
+		"ft": 16384,
+		"iS": 215565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-08.jpg": {
+		"ft": 16384,
+		"iS": 143423,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-08.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-09.jpg": {
+		"ft": 16384,
+		"iS": 1194991,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-09.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-10.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-11.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-12.jpg": {
+		"ft": 16384,
+		"iS": 796396,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-13.jpg": {
+		"ft": 16384,
+		"iS": 1086933,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-14.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/imagem-15.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/imagem-15.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/infinita-sencacoes.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1372,7 +1515,7 @@
 		},
 	"\/img\/items\/gallery-10.png": {
 		"ft": 32768,
-		"iS": 97005,
+		"iS": 78225,
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-10.png",
 		"oF": 0,
@@ -1383,7 +1526,7 @@
 		},
 	"\/img\/items\/gallery-11.png": {
 		"ft": 32768,
-		"iS": 108692,
+		"iS": 75483,
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-11.png",
 		"oF": 0,
@@ -1394,7 +1537,7 @@
 		},
 	"\/img\/items\/gallery-12.png": {
 		"ft": 32768,
-		"iS": 108692,
+		"iS": 46526,
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-12.png",
 		"oF": 0,
@@ -1403,9 +1546,20 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/items\/gallery-13.png": {
+		"ft": 32768,
+		"iS": 64524,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-13.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/items\/gallery-14.png": {
 		"ft": 32768,
-		"iS": 104244,
+		"iS": 88071,
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-14.png",
 		"oF": 0,
@@ -1416,42 +1570,9 @@
 		},
 	"\/img\/items\/gallery-15.png": {
 		"ft": 32768,
-		"iS": 95090,
+		"iS": 105075,
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-15.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/items\/gallery-16.png": {
-		"ft": 32768,
-		"iS": 95362,
-		"oA": 0,
-		"oAP": "\/img\/items\/gallery-16.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/items\/gallery-17.png": {
-		"ft": 32768,
-		"iS": 95362,
-		"oA": 0,
-		"oAP": "\/img\/items\/gallery-17.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/img\/items\/gallery-18.png": {
-		"ft": 32768,
-		"iS": 95362,
-		"oA": 0,
-		"oAP": "\/img\/items\/gallery-18.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1497,8 +1618,8 @@
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-5.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1526,7 +1647,7 @@
 		},
 	"\/img\/items\/gallery-9.png": {
 		"ft": 32768,
-		"iS": 72474,
+		"iS": 52566,
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-9.png",
 		"oF": 0,
