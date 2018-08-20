@@ -1289,7 +1289,7 @@
 		},
 	"\/img\/imagem-09.jpg": {
 		"ft": 16384,
-		"iS": 1194991,
+		"iS": 276539,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/imagem-09.jpg",
@@ -1318,50 +1318,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/img\/imagem-12.jpg": {
-		"ft": 16384,
-		"iS": 796396,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/imagem-12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/imagem-13.jpg": {
-		"ft": 16384,
-		"iS": 1086933,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/imagem-13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/imagem-14.jpg": {
-		"ft": 16384,
-		"iS": 0,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/imagem-14.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/img\/imagem-15.jpg": {
-		"ft": 16384,
-		"iS": 0,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/img\/imagem-15.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
 		"q": 100
 		},
 	"\/img\/infinita-sencacoes.svg": {
@@ -1552,8 +1508,8 @@
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-13.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1563,8 +1519,8 @@
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-14.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1573,6 +1529,17 @@
 		"iS": 105075,
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-15.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/gallery-16.png": {
+		"ft": 32768,
+		"iS": 91289,
+		"oA": 0,
+		"oAP": "\/img\/items\/gallery-16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1651,9 +1618,20 @@
 		"oA": 0,
 		"oAP": "\/img\/items\/gallery-9.png",
 		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/items\/imagem-06.jpg": {
+		"ft": 16384,
+		"iS": 276539,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/items\/imagem-06.jpg",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/img\/items\/img-menu.jpg": {
@@ -1962,6 +1940,34 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/img\/vinheta-bruma.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/img\/vinheta-bruma.mp4",
+		"oF": 0
+		},
+	"\/img\/vinheta-castanha.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/img\/vinheta-castanha.mp4",
+		"oF": 0
+		},
+	"\/img\/vinheta-crema.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/img\/vinheta-crema.mp4",
+		"oF": 0
+		},
+	"\/img\/vinheta-nevoa.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/img\/vinheta-nevoa.mp4",
+		"oF": 0
 		},
 	"\/index-copia.html": {
 		"cB": 0,
